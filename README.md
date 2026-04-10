@@ -4,6 +4,25 @@ Script de automatización en **Python** para el mantenimiento de usuarios en una
 
 El sistema genera reportes accionables y un registro detallado de cambios mediante logs, optimizando significativamente el tiempo de administración.
 
+## 📚 Tabla de Contenidos
+
+- [⚙️ LMS User Management Automation](#️-lms-user-management-automation)
+  - [� Tabla de Contenidos](#-tabla-de-contenidos)
+  - [🚀 Descripción del proyecto](#-descripción-del-proyecto)
+  - [🧠 Problema que resuelve](#-problema-que-resuelve)
+  - [⚙️ Flujo del proceso](#️-flujo-del-proceso)
+  - [🛠️ Tecnologías utilizadas](#️-tecnologías-utilizadas)
+  - [📁 Estructura del proyecto](#-estructura-del-proyecto)
+  - [🔍 Lógica de procesamiento](#-lógica-de-procesamiento)
+    - [📥 Entrada](#-entrada)
+    - [🔄 Procesamiento](#-procesamiento)
+    - [📤 Salida](#-salida)
+  - [▶️ Ejecución](#️-ejecución)
+  - [📝 Sistema de Logs](#-sistema-de-logs)
+  - [📈 Impacto del proyecto](#-impacto-del-proyecto)
+  - [🔧 Posibles mejoras futuras](#-posibles-mejoras-futuras)
+  - [👨‍💻 Autor](#-autor)
+
 ## 🚀 Descripción del proyecto
 
 La administración manual de usuarios en plataformas LMS puede ser un proceso repetitivo, propenso a errores y altamente demandante en tiempo, especialmente cuando se manejan grandes volúmenes de colaboradores.
